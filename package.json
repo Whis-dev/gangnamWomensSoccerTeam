@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "강남구 여성축구단",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "서울시 강남구 여성생활체육 축구단",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "whis <whisdevj@gmail.com>",
   "dependencies": {
     "gatsby": "^2.23.3",
     "gatsby-image": "^2.4.7",
@@ -11,6 +11,7 @@
     "gatsby-plugin-offline": "^3.2.9",
     "gatsby-plugin-react-helmet": "^3.3.4",
     "gatsby-plugin-sharp": "^2.6.11",
+    "gatsby-plugin-typescript": "^2.4.6",
     "gatsby-source-filesystem": "^2.3.11",
     "gatsby-transformer-sharp": "^2.5.5",
     "prop-types": "^15.7.2",
@@ -19,7 +20,8 @@
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
-    "prettier": "2.0.5"
+    "prettier": "2.0.5",
+    "typescript": "^3.9.5"
   },
   "keywords": [
     "gatsby"
