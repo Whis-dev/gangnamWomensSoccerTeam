@@ -1,3 +1,3 @@
 export interface ILayoutProps {
-    children: string;
+    children: JSX.Element[];
 }
